@@ -87,7 +87,7 @@ const Portfolio = () => {
             </div>
             <div className="column right w-full md:w-[55%] mt-8 md:mt-0">
               <div className="text text-2xl font-bold mb-4">
-              Je suis BAIDA BRAHIM<span className="break"> un  <span className="typing2 text-crimson"> étudiante en ingénierie</span></span>
+              Je suis BAIDA BRAHIM<span className="break"> un  <span className="typing2 text-crimson"> étudiant en ingénierie</span></span>
               </div>
               <p className="text-justify leading-relaxed">
               Je suis un étudiant en ingénierie dévoué en sciences géomatiques et en ingénierie topographique à l'IAV HASSAN II.
